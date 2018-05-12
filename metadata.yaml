@@ -1,0 +1,31 @@
+_repo: Acadian-Reminiscences---The-True-Story-of-Evangeline_31245
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voorhies, Felix
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '35092'
+    url: http://www.gutenberg.org/2009/agents/35092
+description: ''
+gutenberg_issued: '2010-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borda, Marie Marthe'
+- !lcc 'E151'
+- !lcsh 'Acadians -- Biography'
+- !lcsh 'Labiche, Emmeline'
+- !lcsh 'Nova Scotia -- History -- 1713-1763'
+- !lcsh 'Acadians -- United States'
+- !lcc 'F1001'
+title: 'Acadian Reminiscences : The True Story of Evangeline'
+url: http://www.gutenberg.org/ebooks/31245
